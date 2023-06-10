@@ -18,10 +18,12 @@ As we build a chat app (using the [Falcon-7B-Instruct](https://huggingface.co/ti
 6. [Automating tasks with dstack](dstack_into.ipynb)
 7. Q&A
 
-> **Note:**
-> The code in this repo requires the use of `dstack==0.10`, which will be released on the 12th of June.
+> **Note**
+> The code in this repository uses `dstack 0.10`, which will be released on the 12th of June.
+>
+> To run the code in this repository, make sure to install `dstack` using `pip install "dstack[aws,gcp,azure]==0.10rc1"`.
+>
 > If you have any questions about `dstack`, please ask them in [Slack](https://join.slack.com/t/dstackai/shared_invite/zt-xdnsytie-D4qU9BvJP8vkbkHXdi6clQ).
-
 
 ### References
 
