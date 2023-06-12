@@ -21,7 +21,7 @@ As we build a chat app (using the [Falcon-7B-Instruct](https://huggingface.co/ti
 To work with this repo, make sure to install the latest version of `dstack`: 
 
 ```shell
-pip install "dstack[aws,gcp,azure] -U"`
+pip install "dstack[aws,gcp,azure]" -U
 ```
 
 > If you have any questions about `dstack`, please ask them in [Slack](https://join.slack.com/t/dstackai/shared_invite/zt-xdnsytie-D4qU9BvJP8vkbkHXdi6clQ).
