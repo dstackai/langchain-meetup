@@ -1,4 +1,4 @@
 type: dev-environment
 build:
-  - pip install -r requirements.txt
+  - pip install -r requirements.txt --no-cache-dir
 ide: vscode
